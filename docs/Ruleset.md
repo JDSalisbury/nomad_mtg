@@ -1,6 +1,7 @@
-# 🏍️ Nomad
-
-# **— A Travel-Optimized Magic: The Gathering Format**
+---
+id: Ruleset
+title: A Travel-Optimized Magic: The Gathering Format
+---
 
 60 cards. One die. No baggage.
 
@@ -19,10 +20,10 @@ Nomad is a custom Magic: The Gathering format specifically designed for portabil
 ### **🔢 No Counters**
 
 - All forms of counters are banned:
-    - Loyalty, +1/+1, -1/-1, Poison, Energy, Experience, etc.
+  - Loyalty, +1/+1, -1/-1, Poison, Energy, Experience, etc.
 - No Planeswalkers, Sagas, or battles.
 - Prohibited mechanics include:
-    - Level up, Persist, Undying, Suspend, Cumulative Upkeep, Ring Tempting, Vanishing, and other mechanics that rely on counters or track values on cards
+  - Level up, Persist, Undying, Suspend, Cumulative Upkeep, Ring Tempting, Vanishing, and other mechanics that rely on counters or track values on cards
 
 ### 🎲 No Coin flips, or Dice Rolls
 
@@ -32,8 +33,8 @@ Nomad is a custom Magic: The Gathering format specifically designed for portabil
 
 - Cards that create tokens or any other additional cardboard objects are not allowed
 - Banned token types include:
-    - Creature tokens (e.g. 1/1 Spirits, 2/2 Zombies)
-    - Non-creature tokens (e.g. Food, Clue, Treasure, Blood, Map, Emblems, Copies, etc.)
+  - Creature tokens (e.g. 1/1 Spirits, 2/2 Zombies)
+  - Non-creature tokens (e.g. Food, Clue, Treasure, Blood, Map, Emblems, Copies, etc.)
 - Cards like Bitterblossom, Esika’s Chariot, or Lingering Souls are not Nomad legal
 
 ### **🧼 Clean Board State**
@@ -47,7 +48,7 @@ Nomad is a custom Magic: The Gathering format specifically designed for portabil
 - Starting life: 20
 - Maximum life: 20
 - Life gain cannot exceed this cap
-    - If you’re at 18 and gain 5 life, your life becomes 20 — not 23
+  - If you’re at 18 and gain 5 life, your life becomes 20 — not 23
 - Cards that reference how much life you’ve gained will only count the actual change
 
 ### **🚫Banlist Policy**
