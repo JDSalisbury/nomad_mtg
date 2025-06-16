@@ -1,13 +1,13 @@
 {
   "docs": {
     "Play": [
-      "Ruleset"
+      "ruleSet"
     ],
     "Sideboard": [
-      "doc3"
+      "extraRules"
     ],
     "Banlist": [
-      "doc2"
+      "bans"
     ]
   }
 }

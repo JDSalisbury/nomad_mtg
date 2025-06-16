@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: bans
 title: Banlist Policy
 ---
 
