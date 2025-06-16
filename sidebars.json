@@ -3,17 +3,11 @@
     "Play": [
       "Ruleset"
     ],
-    "First Category": [
-      "doc2"
-    ],
-    "Second Category": [
+    "Sideboard": [
       "doc3"
-    ]
-  },
-  "docs-other": {
-    "First Category": [
-      "doc4",
-      "doc5"
+    ],
+    "Banlist": [
+      "doc2"
     ]
   }
 }
