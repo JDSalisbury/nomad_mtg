@@ -18,3 +18,9 @@
 img {
     border-radius: 1% ;
 }
+
+.blockContent {
+    justify-items: center;
+    align-content: center;
+    text-align: left;
+}
