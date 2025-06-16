@@ -1,29 +1,75 @@
----
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
----
+# 🏍️ Nomad
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+# **— A Travel-Optimized Magic: The Gathering Format**
 
-## Lorem
+60 cards. One die. No baggage.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+Nomad is a custom Magic: The Gathering format specifically designed for portability and ease of play while traveling. Tailored for motorcycle trips and other on-the-go settings, Nomad emphasizes minimalism by eliminating tokens, counters, and auxiliary game pieces. Players bring only their deck, a roll-down D20, and their strategic skill—nothing more.
 
-## Mauris In Code
+**🧳 Deck Construction**
 
-```
-Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.
-```
+- Main Deck: 40 cards
+- Sideboard: 20 cards
+- Total cards carried: 60
+- Singleton: Only one copy of any card, except basic lands
+- Accessories allowed: A single roll-down D20 die — no extras
 
-## Nulla
+## **⚠️ Gameplay Restrictions**
 
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
+### **🔢 No Counters**
 
-## Orci
+- All forms of counters are banned:
+    - Loyalty, +1/+1, -1/-1, Poison, Energy, Experience, etc.
+- No Planeswalkers, Sagas, or battles.
+- Prohibited mechanics include:
+    - Level up, Persist, Undying, Suspend, Cumulative Upkeep, Ring Tempting, Vanishing, and other mechanics that rely on counters or track values on cards
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.
+### 🎲 No Coin flips, or Dice Rolls
 
-## Phasellus
+- Cards that require the roll of a die or the flip of a coin are not Nomad legal
 
-Phasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis.
+### **🧪 No Tokens or Extra Game Objects**
+
+- Cards that create tokens or any other additional cardboard objects are not allowed
+- Banned token types include:
+    - Creature tokens (e.g. 1/1 Spirits, 2/2 Zombies)
+    - Non-creature tokens (e.g. Food, Clue, Treasure, Blood, Map, Emblems, Copies, etc.)
+- Cards like Bitterblossom, Esika’s Chariot, or Lingering Souls are not Nomad legal
+
+### **🧼 Clean Board State**
+
+- No emblems, stickers, dungeons, attractions, or other extra objects
+- No Monarch or City’s Blessing
+- If a card requires external physical pieces to track or function — it’s not Nomad legal
+
+### **❤️ Life Total Rules**
+
+- Starting life: 20
+- Maximum life: 20
+- Life gain cannot exceed this cap
+    - If you’re at 18 and gain 5 life, your life becomes 20 — not 23
+- Cards that reference how much life you’ve gained will only count the actual change
+
+### **🚫Banlist Policy**
+
+- Nomad follows the Legacy format ban list as a baseline for card legality and power balance.
+- All Nomad-specific gameplay restrictions (e.g., no tokens, no counters, no extra game pieces) are enforced on top of the Legacy ban list.
+- Cards legal in Legacy but disallowed by Nomad’s rules (e.g., Bitterblossom, Wasteland, Uro, Titan of Nature’s Wrath) are also banned.
+- Because Nomad is a singleton format, players may use one copy of any legal card unless it is banned under these combined restrictions.
+
+### **🔁 Sideboarding Rules**
+
+- 20-card sideboard
+- Encourages transformative post-board experiences
+- Decks can significantly shift playstyle between games
+- While traveling, players may freely change their Game 1 configuration between sessions for variety
+
+### **🎯 Philosophy**
+
+Minimalism, Portability, Replayability
+
+Nomad is about stripping Magic down to its core.
+
+No bookkeeping. No clutter. Just focused, streamlined gameplay — perfect for campfires, pit stops, and long journeys.
+
+[Nomad_Format_Banlist](%F0%9F%8F%8D%EF%B8%8F%20Nomad%20210e544575158067ad9beff773551581/Nomad_Format_Banlist%20211e544575158174962ddfba755f3f37.csv)
