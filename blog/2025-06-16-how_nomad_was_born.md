@@ -2,7 +2,7 @@
 title: How Nomad Was Born: Magic, Miles, and the Joy of Simplicity
 author: Jeff Salisbury
 authorURL: http://x.com/jdsalsy
-authorFBID: 661277173
+authorImageURL: https://github.com/JDSalisbury.png
 ---
 
 It started with a ride.
