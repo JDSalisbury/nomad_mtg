@@ -27,7 +27,7 @@ const siteConfig = {
   customDocsPath: path.basename(__dirname) + "/docs",
 
   title: "Nomad", // Title for your website.
-  tagline: "Mtg to Go, Travel light format",
+  tagline: "MTG to go, a travel light format",
   url: "https://your-docusaurus-test-site.com", // Your website URL
   baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -44,7 +44,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { doc: "ruleSet", label: "Play" },
-    { doc: "doc4", label: "Decks" },
+    { doc: "decks", label: "Decks" },
     { blog: true, label: "Blog" },
   ],
 
