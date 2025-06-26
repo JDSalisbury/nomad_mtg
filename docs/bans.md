@@ -10,66 +10,41 @@ title: Banlist Policy
 - Cards legal in Legacy but disallowed by Nomad’s rules (e.g., Bitterblossom, Wasteland, Uro, Titan of Nature’s Wrath) are also banned.
 - Because Nomad is a singleton format, players may use one copy of any legal card unless it is banned under these combined restrictions.
 
+<a href="https://magic.wizards.com/en/banned-restricted-list#legacy-banned" target="_blank" rel="noopener noreferrer">
+Current Legacy ban List
+</a>
+
+Given the singelton nature of the format some of the legacy cards might not be as degenerate in this format.
+Notable cards on Legacy banlist that aren't Banned in Nomad:
+
+- Arcum's Astrolabe
+- Expressive Iteration
+- Gitaxian Probe
+- Gush
+- Mana Drain
+- Mind Twist
+- Skull Clamp
+- Sowing Mycospawn
+
 ---
 
-| Card Name                           | Ban Reason                      | Source     |
-| ----------------------------------- | ------------------------------- | ---------- |
-| Ancestral Recall                    | Commander Banlist               | Commander  |
-| Balance                             | Commander Banlist               | Commander  |
-| Biorhythm                           | Commander Banlist               | Commander  |
-| Black Lotus                         | Commander Banlist               | Commander  |
-| Channel                             | Commander Banlist               | Commander  |
-| Emrakul, the Aeons Torn             | Commander Banlist               | Commander  |
-| Fastbond                            | Commander Banlist               | Commander  |
-| Flash                               | Commander Banlist               | Commander  |
-| Gifts Ungiven                       | Commander Banlist               | Commander  |
-| Griselbrand                         | Commander Banlist               | Commander  |
-| Hullbreacher                        | Commander Banlist               | Commander  |
-| Karakas                             | Commander Banlist               | Commander  |
-| Library of Alexandria               | Commander Banlist               | Commander  |
-| Limited Resources                   | Commander Banlist               | Commander  |
-| Mox Emerald                         | Commander Banlist               | Commander  |
-| Mox Jet                             | Commander Banlist               | Commander  |
-| Mox Pearl                           | Commander Banlist               | Commander  |
-| Mox Ruby                            | Commander Banlist               | Commander  |
-| Mox Sapphire                        | Commander Banlist               | Commander  |
-| Panoptic Mirror                     | Commander Banlist               | Commander  |
-| Primeval Titan                      | Commander Banlist               | Commander  |
-| Recurring Nightmare                 | Commander Banlist               | Commander  |
-| Sundering Titan                     | Commander Banlist               | Commander  |
-| Sway of the Stars                   | Commander Banlist               | Commander  |
-| Sylvan Primordial                   | Commander Banlist               | Commander  |
-| Time Vault                          | Commander Banlist               | Commander  |
-| Time Walk                           | Commander Banlist               | Commander  |
-| Tinker                              | Commander Banlist               | Commander  |
-| Tolarian Academy                    | Commander Banlist               | Commander  |
-| Trade Secrets                       | Commander Banlist               | Commander  |
-| Upheaval                            | Commander Banlist               | Commander  |
-| Yawgmoth's Bargain                  | Commander Banlist               | Commander  |
-| All Token Creation Cards            | Generates tokens                | Nomad Rule |
-| Bitterblossom                       | Generates tokens                | Nomad Rule |
-| Esika’s Chariot                     | Generates tokens                | Nomad Rule |
-| Lingering Souls                     | Generates tokens                | Nomad Rule |
-| Revel in Riches                     | Generates tokens                | Nomad Rule |
-| Oko, Thief of Crowns                | Generates tokens                | Nomad Rule |
-| Saheeli, Sublime Artificer          | Generates tokens                | Nomad Rule |
-| Wedding Announcement                | Generates tokens                | Nomad Rule |
-| Krenko, Mob Boss                    | Generates tokens                | Nomad Rule |
-| Luminarch Ascension                 | Generates tokens                | Nomad Rule |
-| Elspeth, Sun's Champion             | Generates tokens                | Nomad Rule |
-| Arcbound Ravager                    | Uses counters                   | Nomad Rule |
-| All Planeswalkers                   | Uses counters                   | Nomad Rule |
-| All Saga cards                      | Uses counters                   | Nomad Rule |
-| All Persist creatures               | Uses counters                   | Nomad Rule |
-| All Undying creatures               | Uses counters                   | Nomad Rule |
-| All Suspend cards                   | Uses Suspend                    | Nomad Rule |
-| All Energy cards                    | Uses Energy                     | Nomad Rule |
-| All Stun cards                      | Uses counters                   | Nomad Rule |
-| All Infect/Poison cards             | Uses Infect/Poison              | Nomad Rule |
-| All Dungeon cards                   | Uses Dungeon                    | Nomad Rule |
-| All Sticker/Attraction cards        | Uses Sticker/Attraction         | Nomad Rule |
-| All Copy effects requiring tracking | Tracking complexity             | Nomad Rule |
-| Sensei’s Divining Top               | Combo/time-wasting              | Legacy     |
-| Skullclamp                          | Warping power level             | Legacy     |
-| Uro, Titan of Nature’s Wrath        | Too efficient in 40-card format | Legacy     |
-| Wasteland                           | Unfun land destruction          | Legacy     |
+| Card Name                           | Ban Reason               | Source |
+| ----------------------------------- | ------------------------ | ------ |
+| All Planeswalkers                   | Uses loyalty counters    | Nomad  |
+| All Persist creatures               | Uses -1/-1 counters      | Nomad  |
+| All Undying creatures               | Uses +1/+1 counters      | Nomad  |
+| All Suspend cards                   | Uses time counters       | Nomad  |
+| All Saga cards                      | Uses lore counters       | Nomad  |
+| All Energy cards                    | Uses energy counters     | Nomad  |
+| All Infect/Poison/Toxic cards       | Uses poison counters     | Nomad  |
+| All Dungeon cards                   | Uses external cards      | Nomad  |
+| All Sticker/Attraction cards        | Uses external components | Nomad  |
+| All Copy effects requiring tracking | Requires extra objects   | Nomad  |
+| All Sunburst cards                  | Uses +1/+1 counters      | Nomad  |
+| All Outlast cards                   | Uses +1/+1 counters      | Nomad  |
+| All Fabricate cards                 | Uses +1/+1 counters      | Nomad  |
+| All Adapt cards                     | Uses +1/+1 counters      | Nomad  |
+| All cards that create tokens        | Token generation         | Nomad  |
+| All Graft cards                     | Uses +1/+1 counters      | Nomad  |
+| All Modular cards                   | Uses +1/+1 counters      | Nomad  |
+| All Living weapon like cards        | Token generation         | Nomad  |
