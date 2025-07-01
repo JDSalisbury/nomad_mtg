@@ -62,10 +62,10 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>More</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
             <a href="https://coff.ee/jdsalsy" _blank="true">
               ☕️ Buy Me a Coffee
             </a>
+            <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
           </div>
         </section>
 
